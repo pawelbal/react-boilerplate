@@ -1,0 +1,7 @@
+node_modules/
+.env.development
+.env.test
+# public/bundle.js
+# public/bundle.js.map
+# public/style.css
+# public/style.css.map
